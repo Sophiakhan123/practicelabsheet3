@@ -4,3 +4,4 @@ public class HelloWorld {
     }
 System.out.println("Hello, nextgen!");
 }
+ System.out.println("Hello,main!");}
